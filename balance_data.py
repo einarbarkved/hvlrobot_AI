@@ -1,4 +1,5 @@
 # balance_data.py
+# Einar Barkved from Sentdex
 
 import numpy as np
 import pandas as pd

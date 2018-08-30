@@ -1,4 +1,5 @@
 # Citation: Box Of Hats (https://github.com/Box-Of-Hats )
+# Einar Barkved from Sentdex
 
 import win32api as wapi
 import time

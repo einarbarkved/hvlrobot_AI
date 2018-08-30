@@ -1,4 +1,5 @@
 # create_training_data.py
+# Einar Barkved from Sentdex
 
 import numpy as np
 from grabscreen import grab_screen

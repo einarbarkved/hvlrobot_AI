@@ -1,3 +1,5 @@
+# Einar Barkved from Sentdex
+
 import numpy as np
 from alexnet import alexnet
 WIDTH = 160

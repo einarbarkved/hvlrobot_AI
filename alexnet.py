@@ -1,4 +1,5 @@
 # alexnet.py
+# Einar Barkved from Sentdex
 
 """ AlexNet.
 References:
