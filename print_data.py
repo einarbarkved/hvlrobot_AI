@@ -8,4 +8,4 @@ training_data = list(np.load(file_name))
 
 
 df = pd.DataFrame(training_data)
-print(df.head(500))
+print(df.head())
